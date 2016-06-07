@@ -1,0 +1,19 @@
+{
+  "name": "the-fine-print",
+  "version": "1.0.0",
+  "description": "A blog centered around Hip Hop artistry, lyricism, and trends in sound. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbouzi12/The-Fine-Print.git"
+  },
+  "author": "Jensen Bouzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbouzi12/The-Fine-Print/issues"
+  },
+  "homepage": "https://github.com/jbouzi12/The-Fine-Print#readme"
+}
