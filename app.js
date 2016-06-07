@@ -13,6 +13,9 @@ router.use(function(req, res, next) {
     console.log('This is sample middleware for all routes');
     next(); // make sure we go to the next routes and don't stop here
 });
+router.get('/', function(req, res){
+  res.send("<h1>Hello world</h1>");
+})
 
 app.use('/', router);
 
